@@ -10,6 +10,7 @@ import org.springframework.context.annotation.ImportResource;
 public class SpringBootToolkitApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(SpringBootToolkitApplication.class, args);
 	}
 }
